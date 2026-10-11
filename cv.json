@@ -1,0 +1,1 @@
+{"name": "lgbm_quantile", "metric": "quantile_quality_x100", "folds": [73.62, 75.6, 75.11, 75.4], "cv": 74.93, "std": 0.78}
